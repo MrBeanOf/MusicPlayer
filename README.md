@@ -13,6 +13,13 @@ License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
 
 ```
 
+</a>
+  
+  <a href="https://github.com/staneswilson/MusicPlayer/fork">
+    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+
+  </a>
+
 ## Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
